@@ -60,7 +60,7 @@ export default function SignUp() {
         />
         <input
           type="password"
-          placeholder="username"
+          placeholder="password"
           className="boder p-3 rounded-lg"
           id="password"
           onChange={handleChange}
